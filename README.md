@@ -2,7 +2,8 @@
 
 ## Description
 
-Manage employee data using a command line Content Management System (CMS) built with Node.js, Inquirer, and MySQL. The CMS provides options to perform the following tasks:
+Manage employee data using a command line Content Management System (CMS) built with Node.js, Inquirer, and MySQL.
+The CMS provides options to perform the following tasks:
 
 *View all departments
 *View all roles
