@@ -40,9 +40,6 @@ The CMS is designed to efficiently manage employee data, allowing users to inter
 
 ## Video
 
-[Employee Tracker.webm](https://github.com/Tehila03/Employee-Tracker/assets/125328462/b42bad08-d7d8-467d-85ad-4e997fb56023)
-
-
 ![Employee Tracker](https://github.com/Tehila03/Employee-Tracker/assets/125328462/112274b1-8ec1-461a-af9a-6beddc9784e5)
 
 
