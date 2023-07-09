@@ -35,11 +35,12 @@ The CMS is designed to efficiently manage employee data, allowing users to inter
 - Open the terminal in "index.js" and run the command "npm start".
 - Select a desired task and follow the Inquirer prompts.
 - Choose another task or exit the application.
-- To exit the application, choose "EXIT" from task prompt list.
+- To exit the application, choose "EXIT" from the task prompt list.
 - Reference the video demonstration above as needed.
 
 ## Video
 
+![Employee Tracker](https://github.com/Tehila03/Employee-Tracker/assets/125328462/112274b1-8ec1-461a-af9a-6beddc9784e5)
 
 
 ## Questions
